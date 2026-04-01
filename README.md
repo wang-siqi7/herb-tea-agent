@@ -67,7 +67,11 @@ python -c "from rag.vector_store import VectorStoreService; VectorStoreService()
 # 5. 启动 Web 界面
 streamlit run app.py
 ```
+## 衍生项目
 
+本项目的研究成果已用于构建：
+- **[中药茶饮智能顾问 Agent](https://github.com/wang-siqi7/herb-tea-agent)**：面向消费者的智能茶饮推荐系统
+  
 ## 测试示例
 
 | 用户输入 | 系统响应 |
